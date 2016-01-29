@@ -10,4 +10,4 @@ The first method is written out for you as an example. Don't forget to run your 
 
 Note: The price of one ride on the NYC Subway system is $2.75
 
-<a href='https://learn.co/lessons/hs-ruby-2-methods-practice-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-ruby-2-methods-practice-lab' title='A Subway Story'>A Subway Story</a> on Learn.co and start learning to code for free.</p>
